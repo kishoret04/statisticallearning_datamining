@@ -1,1 +1,1 @@
-Project on stock market prediction
+Trained an SVM to predict the trend of stock price on 11 th day based on moving average price previous days and achieved AUC score of 80%. Also predicted the stock price, with KRR and achieved RMSE to avg(y) ratio of 0.02. 
